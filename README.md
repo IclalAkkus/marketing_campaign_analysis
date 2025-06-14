@@ -1,7 +1,9 @@
 # 📊 Pazarlama Kampanyası Yanıt Analizi
 
-Bu proje, Kaggle üzerinde yer alan **Marketing Campaign** veri seti kullanılarak müşteri yanıtlarının analiz edilmesini amaçlamıştır. Amaç, geçmiş müşteri davranışlarından yola çıkarak pazarlama kampanyalarına verilecek yanıtları öngörmek ve veri madenciliği yöntemleriyle stratejik çıkarımlar elde etmektir.
+Bu projede Kaggle üzerinde yer alan **Marketing Campaign** veri seti kullanılamıştır. Amaç, geçmiş müşteri davranışlarından yola çıkarak pazarlama kampanyalarına verilecek yanıtları öngörmek ve veri madenciliği yöntemleriyle stratejik çıkarımlar elde etmektir.
 
+Proje, pazarlama kampanyalarında müşteri yanıt oranlarını öngörmek ve segmentasyon tabanlı stratejiler geliştirmek isteyen işletmelere güçlü içgörüler sunmaktadır. Özellikle yüksek harcama yapan ve sadık müşteri segmentleri belirlenmiş, işletmelerin bu segmentlere yönelik özel kampanyalar geliştirmesi gerektiği vurgulanmıştır.
+ 
 ---
 
 ## 📁 Proje İçeriği
@@ -57,11 +59,5 @@ Veri seti, Kaggle üzerinden erişilebilen “Marketing Campaign” veri kümesi
 - MacQueen, J. (1967). *K-means clustering method*.  
 - Pedregosa, F. et al. (2011). *Scikit-learn: Machine Learning in Python*. Journal of Machine Learning Research, 12.  
 - Lemaître, G., Nogueira, F., & Aridas, C. K. (2017). *Imbalanced-learn: A Toolbox for Imbalanced Datasets*. JMLR.
-
----
-
-## 📌 Özet
-
-Bu proje, pazarlama kampanyalarında müşteri yanıt oranlarını öngörmek ve segmentasyon tabanlı stratejiler geliştirmek isteyen işletmelere güçlü içgörüler sunmaktadır. Özellikle yüksek harcama yapan ve sadık müşteri segmentleri belirlenmiş, işletmelerin bu segmentlere yönelik özel kampanyalar geliştirmesi gerektiği vurgulanmıştır.
 
 ---
