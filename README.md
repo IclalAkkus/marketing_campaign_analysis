@@ -1,6 +1,6 @@
 # 📊 Pazarlama Kampanyası Yanıt Analizi
 
-Bu proje, Python ile Veri Bilimi dersi kapsamında gerçekleştirilmiş ve Kaggle üzerinde yer alan **Marketing Campaign** veri seti kullanılarak müşteri yanıtlarının analiz edilmesini amaçlamıştır. Amaç, geçmiş müşteri davranışlarından yola çıkarak pazarlama kampanyalarına verilecek yanıtları öngörmek ve veri madenciliği yöntemleriyle stratejik çıkarımlar elde etmektir.
+Bu proje, Kaggle üzerinde yer alan **Marketing Campaign** veri seti kullanılarak müşteri yanıtlarının analiz edilmesini amaçlamıştır. Amaç, geçmiş müşteri davranışlarından yola çıkarak pazarlama kampanyalarına verilecek yanıtları öngörmek ve veri madenciliği yöntemleriyle stratejik çıkarımlar elde etmektir.
 
 ---
 
