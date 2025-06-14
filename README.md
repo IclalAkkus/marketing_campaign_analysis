@@ -22,7 +22,7 @@ Detaylı açıklamaları ve görselleri içeren analiz raporuna aşağıdaki ba�
 
 ## 📘 Kaggle Notebook
 
-Kaggle üzerinde oluşturduğum notebooka buradan ulaşabilirsiniz:  
+Kaggle üzerinde hazırladığım notebooka buradan ulaşabilirsiniz: 
 🔗 [Kaggle Notebook – Marketing Campaign Veri Seti](https://www.kaggle.com/code/iclalakkus/marketing-campaign-veri-seti)
 
 > Notebook içerisinde kullanılan tüm kodlar, görseller, grafik analizler ve model çıktıları adım adım sunulmuştur.
